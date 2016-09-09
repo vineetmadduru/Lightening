@@ -1,7 +1,7 @@
 Lightning
 =========
 
-One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find the PowerPoint slides 142 to 170 of the apjava1.pptx presentation in folders on edmodo and the Math.random worksheet helpful.  Here are some steps to get you started:
+One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find the PowerPoint slides 140 to 190 of the MOSTRECENTapjava1.pptx presentation in folders on edmodo and the Math.random worksheet helpful.  Here are some steps to get you started:
 
 1. Start by forking [this repository](https://github.com/maureengarda/Lightening.git). 
 2. Open the Lightning.pde file. You'll need to add some code
@@ -16,7 +16,7 @@ At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` 
     4. set `startX` to equal `endX` and `startY` to equal `endY`  
 5. `void mousePressed()` needs to set `startX`,`startY`,`endX`,`endY` back to their original values.  
 5. You will need to modify `index.html` to customize your website with it's own title, header and footer. When you are happy with your program, push your finished project up to GitHub
-6. The final step is to submit the URL for your website  for the Lightening assignment. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
+6. The final step is to submit the URL for your website  for the Lightening assignment on Edmodo. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
 
 Samples of Student Work
 -----------------------
